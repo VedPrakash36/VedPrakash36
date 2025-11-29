@@ -8,4 +8,4 @@
 VedPrakash36/VedPrakash36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![An image of @vedprakash36's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vedprakash36)](https://holopin.io/@vedprakash36)
+(https://holopin.me/vedprakash36)](https://holopin.io/@vedprakash36)
